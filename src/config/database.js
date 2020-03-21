@@ -2,7 +2,7 @@ module.exports = {
     dialect: 'postgres',
     host: 'localhost',
     username: 'postgres',
-    password: 'Vssdev123+',
+    password: 'XXX',
     database: 'sqlnode',
     define: {
         timestamps: true,
